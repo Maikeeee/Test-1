@@ -1,0 +1,61 @@
+body{
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+}
+
+header{
+	background-color: teal;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 20px;
+}
+
+header h1{
+	color: white;
+	font-size: 30px;
+
+}
+
+header img{
+	border: 2px solid black;
+}
+
+/* max width of text */
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+
+	/*text-align: center;*/
+}
+/* max width of images is 100% of the width above */
+main img{
+	max-width: 100%;
+	text-align: center;
+}
+
+/* all h2 */
+h2{
+	font-size: 25px;
+}
+
+/* all links */
+a{
+	color: steelblue;
+}
+a:hover{
+	color: teal;
+}
+
+footer {
+	background-color: teal;
+	text-align: center;
+	padding: 8px;
+}
+
+
+
+
+
+
